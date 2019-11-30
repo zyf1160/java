@@ -1,4 +1,4 @@
-package com.newsmanager.object;
+package com.object;
 
 public class Student2 {
     //成员变量

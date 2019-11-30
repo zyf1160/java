@@ -1,4 +1,4 @@
-package com.newsmanager.object;
+package com.object;
 
 import com.newsmanager.object.util.Calculator;
 import com.newsmanager.object.util.StringUtil;

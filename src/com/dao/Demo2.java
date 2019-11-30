@@ -1,4 +1,4 @@
-package com.newsmanager.dao;
+package com.dao;
 
 import com.newsmanager.entity.News;
 

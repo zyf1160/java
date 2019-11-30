@@ -1,4 +1,4 @@
-package com.newsmanager.dao;
+package com.dao;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.newsmanager.entity;
+package com.entity;
 
 import java.util.Date;
 /**描述:新闻表对应的实体类*/

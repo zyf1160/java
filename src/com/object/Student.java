@@ -1,4 +1,4 @@
-package com.newsmanager.object;
+package com.object;
 
 public class Student {
     private String name;

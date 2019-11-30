@@ -1,4 +1,4 @@
-package com.newsmanager.object.util;
+package com.object.util;
 
 public class Test {
     public static void main(String[] args) {

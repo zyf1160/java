@@ -1,4 +1,4 @@
-package com.newsmanager.object.util;
+package com.object.util;
 
 public class StringUtil {
     public static void print(Object B1,Object B2){

@@ -1,5 +1,3 @@
-package com.newsmanager;
-
 import com.newsmanager.dao.NewsDao;
 import com.newsmanager.entity.News;
 
