@@ -9,7 +9,7 @@ public class JdbcDemo {
         List<User> userlist = new ArrayList<>();
         Class.forName("com.mysql.jdbc.Driver");
         Connection conn = DriverManager.getConnection("jdbc:mysql://192.168.1.107/zyf1","root","");
-        String sql = "select * from test ";
+        String sql = "select * from test  ";
         //Statement statement = conn.createStatement();
         //String  count = statement.getResultSet(sql)
         PreparedStatement preparedStatement = conn.prepareStatement(sql);
