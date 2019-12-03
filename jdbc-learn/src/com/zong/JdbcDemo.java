@@ -32,5 +32,9 @@ public class JdbcDemo {
             String n = u.getName();
             System.out.println(n);
         }
+        conn.close();
+        preparedStatement.close();
+        resultSet.close();
+        resultSet.close();
     }
 }
